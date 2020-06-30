@@ -115,7 +115,7 @@ external editors:
           to enable features like syntax highlighting and IntelliSense.
 
 
-.. note:: If you are using Visual Studio 2019, you must follow the instructions found in the "Configure VS2019 for Debugging" section below.
+.. note:: If you are using Visual Studio 2019, you must follow the instructions found in the "Configuring VS 2019 for debuggin" section below.
 
 
 Creating a C# script
